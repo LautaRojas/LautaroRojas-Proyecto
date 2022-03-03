@@ -6,12 +6,14 @@ function NavBar() {
     return <header>
         <h1>Tienda Discos</h1>
         <Nav/>
-        <CartWidget/>
-    </header>
+        <CartWidget />
         
 
+    </header>
 
-    
+
+
+
 }
 
 export default NavBar

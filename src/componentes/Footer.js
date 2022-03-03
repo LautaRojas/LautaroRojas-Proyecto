@@ -1,5 +1,11 @@
+import Nav from "./Nav"
+
 function Footer() {
-    return (<footer> Footer </footer>
+    return (
+        <footer> Footer
+            <Nav />
+        </footer>
+
     )
 }
 
